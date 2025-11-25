@@ -32,6 +32,8 @@ Change `"mode": "CIL"` in ```configs/cifar100_split.json``` file.
 python main.py --config configs/cifar100_split.json
 ```
 
+nnnnn
+
 **For TIL (Task Incremental Learning) settings:**
 
 10-Split-CIFAR100
