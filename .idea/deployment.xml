@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="common@xjtuljm1:22 agent" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="common@xjtuljm1:22 agent">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/data0/lzx/PGP" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lzxxxx">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/data0/lzx/PGP" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lzxxxx_mac">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/data0/lzx/PGP" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

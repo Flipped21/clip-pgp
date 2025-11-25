@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="xjtuljm1" id="cba4720b-3fb3-470d-a821-ef4c08837254" keyPath="C:\Users\陆子轩\.ssh\id_rsa_xjtuljm1" port="22" nameFormat="DESCRIPTIVE" username="common" useOpenSSHConfig="true" />
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="xjtuljm1" id="1bed91f5-19f0-4669-96c8-b14b86742adb" keyPath="$USER_HOME$/.ssh/id_rsa_xjtuljm1" port="22" customName="lzxxxxx_mac" nameFormat="CUSTOM" username="common" useOpenSSHConfig="true">
+        <option name="customName" value="lzxxxxx_mac" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

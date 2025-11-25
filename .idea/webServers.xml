@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ff7ac616-9e0a-4de7-9824-ea02d2c712d0" name="lzxxxx">
+        <fileTransfer accessType="SFTP" host="xjtuljm1" port="22" sshConfigId="cba4720b-3fb3-470d-a821-ef4c08837254" sshConfig="common@xjtuljm1:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="26e94909-b0a8-4662-90ca-81c40e2be33b" name="lzxxxx_mac">
+        <fileTransfer accessType="SFTP" host="xjtuljm1" port="22" sshConfigId="1bed91f5-19f0-4669-96c8-b14b86742adb" sshConfig="lzxxxxx_mac" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
